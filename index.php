@@ -38,6 +38,10 @@
 						<h4>MATKUL :</h4>
 						<h4>Jaringan Syaraf Tiruan</h4>
 					</div>
+					<div class="col-md-12">
+						<h4>URL GITHUB :</h4>
+						<a href="https://github.com/bayupratama15/klasifikasi-gizi-perceptron" target="_blank"><h5>Klik Disini</h5></a>
+					</div>
 				</div>
 			</div>
 		</div>
